@@ -664,13 +664,16 @@ namespace QFramework
             get => mValue;
             set
             {
-                if (value.Equals(mValue)) return;
+                if (value == null && mValue == null) return;
+
+                if (value != null && value.Equals(mValue)) return;
+
                 mValue = value;
                 mOnValueChanged?.Invoke(value);
             }
         }
 
-        public BindableProperty(T value = default)
+        public BindableProperty(T value = default) 
         {
             Value = value;
         }
