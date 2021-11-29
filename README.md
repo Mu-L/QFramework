@@ -51,12 +51,13 @@
 
 
 
-## 商业案例
+## 资源
 
-| 图标                                         | 名称       | 地址                                          |
-| -------------------------------------------- | ---------- | --------------------------------------------- |
-| ![](./Documents/Res/ShowCase/鬼山之下.png)   | 鬼山之下   | https://store.steampowered.com/app/1517160/_/ |
-| ![](./Documents/Res/ShowCase/谐音梗挑战.png) | 谐音梗挑战 | https://www.taptap.com/app/201075             |
+| 图标                                                         | 名称            | 类型     | 地址                                           |
+| ------------------------------------------------------------ | --------------- | -------- | ---------------------------------------------- |
+| ![](https://learning-cdn-public-prd.unitychina.cn/20210718/learn/images/eedbf5d4-72c7-4ab2-8ff0-cd4ec8ab8fcc___.jpg.400x0x1.webp) | 框架搭建 决定版 | 教程     | https://learn.u3d.cn/tutorial/framework_design |
+| ![](./Documents/Res/ShowCase/鬼山之下.png)                   | 鬼山之下        | 商业案例 | https://store.steampowered.com/app/1517160/_/  |
+| ![](./Documents/Res/ShowCase/谐音梗挑战.png)                 | 谐音梗挑战      | 商业案例 | https://www.taptap.com/app/201075              |
 
 
 
