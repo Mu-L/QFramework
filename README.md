@@ -53,11 +53,11 @@
 
 ## 资源
 
-| 图标                                                         | 名称            | 类型     | 地址                                           |
-| ------------------------------------------------------------ | --------------- | -------- | ---------------------------------------------- |
-| ![](https://learning-cdn-public-prd.unitychina.cn/20210718/learn/images/eedbf5d4-72c7-4ab2-8ff0-cd4ec8ab8fcc___.jpg.400x0x1.webp) | 框架搭建 决定版 | 教程     | https://learn.u3d.cn/tutorial/framework_design |
-| ![](./Documents/Res/ShowCase/鬼山之下.png)                   | 鬼山之下        | 商业案例 | https://store.steampowered.com/app/1517160/_/  |
-| ![](./Documents/Res/ShowCase/谐音梗挑战.png)                 | 谐音梗挑战      | 商业案例 | https://www.taptap.com/app/201075              |
+| 图标                                                         | 名称            | 类型     | 描述                                     | 地址                                                         |
+| ------------------------------------------------------------ | --------------- | -------- | ---------------------------------------- | ------------------------------------------------------------ |
+| ![](https://learning-cdn-public-prd.unitychina.cn/20210718/learn/images/eedbf5d4-72c7-4ab2-8ff0-cd4ec8ab8fcc___.jpg.400x0x1.webp) | 框架搭建 决定版 | 教程     | QFramework  的核心架构是怎么演化过来的？ | [课程主页](https://learn.u3d.cn/tutorial/framework_design)   |
+| ![](./Documents/Res/ShowCase/鬼山之下.png)                   | 鬼山之下        | 独立游戏 | 使用 QFramework 制作的独立游戏           | [游戏主页(Steam)](https://store.steampowered.com/app/1517160/_/) |
+| ![](./Documents/Res/ShowCase/谐音梗挑战.png)                 | 谐音梗挑战      | 游戏an'l | 使用 QFramework 制作的手机游戏           | [游戏主页(TapTap)](https://www.taptap.com/app/201075)        |
 
 
 
