@@ -659,6 +659,22 @@ namespace QFramework
                 OnValueChanged = onValueChanged
             };
         }
+        
+        public IUnRegister RegisterWithInitValue(Action<T> onValueChanged)
+        {
+            onValueChanged(mValue);
+            return Register(onValueChanged);
+        }
+
+        public static implicit operator T(BindableProperty<T> property)
+        {
+            return property.Value;
+        }
+
+        public override string ToString()
+        {
+            return Value.ToString();
+        }
 
         public void UnRegister(Action<T> onValueChanged)
         {
@@ -685,3 +701,4 @@ namespace QFramework
     
     #endregion
 }
+
